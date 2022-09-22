@@ -17,3 +17,11 @@ IS: impact score
 OA : open-access  
 S : subscription  
 
+___
+
+Some other potential journal publications:
+
+- Nanomaterials (MDPI Open Access Journals)
+- Optik
+- Results in Physics
+- Applied Physics A
