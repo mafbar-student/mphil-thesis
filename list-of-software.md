@@ -1,6 +1,6 @@
 Below is the list of software that I use in the completion of my dissertation so far. I try to use **free and open-source software (FOSS)** whenever I can, creating open-source workflows for graduate students. It is still incomplete at the moment, but I'm getting there. The ones with [x] are software that are not open-source that I currently use, though I do plan on removing them from my workflow.
 
-## List of software:
+### List of software:
 
 - Microsoft Office [x]
 - Mendeley [x]
