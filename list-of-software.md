@@ -8,7 +8,7 @@ Below is the list of software that I use in the completion of my dissertation so
 - Zotero
 - Freeplane
 - Qualcoder
-- Solar Cell Capacitance Simulator (SCAPS-1D)
+- Solar Cell Capacitance Simulator (SCAPS-1D) [x]
 
 ___
 
