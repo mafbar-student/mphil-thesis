@@ -3,7 +3,7 @@ Below is the table of alternatives of common proprietary software that I use in 
 ## Table of proprietary software and their open-source alternatives
 
 | Software     | Proprietary      | Open-source |
-|--------------|------------------|-------------|
+|--------------|:----------------:|:-----------:|
 | Office suite | Microsoft Office | LibreOffice |  
 | Reference manager | Mendeley | Zotero |
 | Mind-map | Xmind, InVision | Freeplane |
