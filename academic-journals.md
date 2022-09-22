@@ -3,7 +3,7 @@ This is a table of academic journals that I intend to publish on.
 ## Journal Citation Reports (Clarivate)
 
 | Name | Publisher | Impact Factor | Quartile (2020) | Publishing |
-|------|-----------|---------------|-----------------|------------|
+|------|:---------:|:-------------:|:---------------:|:----------:|
 | Optical Materials | Elsevier | 3.080 | Q2 | OA + S |
 | Optical Materials: X | Elsevier | 3.50 (IS) | Q2 | OA |
 | Materials Research Express | IOPScience | 1.620 | Q4 | OA |
