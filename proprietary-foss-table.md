@@ -16,4 +16,3 @@ Future additions to the list:
 
 - LaTeX (Overleaf)
 - Pandoc
-- PerovskiteSCModelling
