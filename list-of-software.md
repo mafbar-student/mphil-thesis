@@ -10,6 +10,9 @@ Below is the list of software that I use in the completion of my dissertation so
 - Qualcoder
 - Solar Cell Capacitance Simulator (SCAPS-1D) [x]
 
+Future ones to be added:
+- LaTeX
+
 ___
 
 [Mirosoft Office](https://www.office.com) is paired with [Mendeley](https://www.mendeley.com), and [LibreOffice](https://www.libreoffice.org) is paired with [Zotero](https://www.zotero.org). Both pairs are effectively the same thing, though the latter are open-source, and I am just interested in how both sets will perform in the writing of college dissertations. I will soon use [LaTeX](https://www.latex-project.org) or [Pandoc](https://pandoc.org/) and Zotero to replace Microsoft Word and Mendeley entirely.
