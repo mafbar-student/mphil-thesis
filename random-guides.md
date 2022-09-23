@@ -4,7 +4,7 @@
 
 [This page](https://alvinalexander.com/text/how-put-multiple-lines-markdown-table-cell-multiline-table) shows how to put multiple lines in a table using Markdown.
 
-This is how you write it using <br>:
+This is how you write it using \<br>:
 
 > | Format   | Tag example |
 | -------- | ----------- |
