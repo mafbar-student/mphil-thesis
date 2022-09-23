@@ -4,8 +4,8 @@ In this [file](https://github.com/mafbar-student/mphil-thesis/blob/main/propriet
 |--------------|:----------------:|:-----------:|
 | Office suite | Microsoft Office | LibreOffice <br> OpenOffice |  
 | Reference manager | Mendeley | Zotero |
-| Mind-map | Xmind, InVision | Freeplane <br> Freemind |
-| CAQDAS | NVivo, MAXQDA, ATLAS.ti | Qualcoder <br> Taguette <br> RQDA |
+| Mind-map | Xmind <br> InVision | Freeplane <br> Freemind |
+| CAQDAS | NVivo <br> MAXQDA <br> ATLAS.ti | Qualcoder <br> Taguette <br> RQDA |
 | Solar cell simulation | Solar Cell Capacitance Simulator (SCAPS-1D) | PerovskiteSCModelling (Ion Monger) |
 | Numerical computation | MATLAB | GNU Octave <br> Scilab <br> Python <br> Julia <br> R |
 | Plotting, graphing | Origin | Matplotlib <br> gnuplot <br> ggplot2 (R) <br> Veusz | QtiPlot <br> Simfit |
