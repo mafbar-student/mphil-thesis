@@ -6,11 +6,12 @@
 
 This is how you write it using \<br>:
 
-> | Format   | Tag example |
-| -------- | ----------- |
-| Headings | =heading1=\<br>==heading2==\<br>===\heading3=== |
-| New paragraph | A blank line starts a new paragraph |
-| Source code block |  // all on one line\<br> {{{ if (foo) bar else   baz }}}
+
+>| Format   | Tag example |  
+|------------|-------------|  
+| Headings | =heading1=\<br>==heading2==\<br>===heading3=== |  
+| New paragraph | A blank line starts a new paragraph |  
+| Source code block |  // all on one line\<br> {{{ if (foo) bar else   baz }}}  
 
 This is the output:
 
