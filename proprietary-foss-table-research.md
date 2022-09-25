@@ -8,5 +8,5 @@ In this [file](https://github.com/mafbar-student/mphil-thesis/blob/main/propriet
 | CAQDAS | NVivo <br> MAXQDA <br> ATLAS.ti | Qualcoder <br> Taguette <br> RQDA |
 | Solar cell simulation | Solar Cell Capacitance Simulator (SCAPS-1D) | PerovskiteSCModelling (Ion Monger) |
 | Numerical computation | MATLAB | GNU Octave <br> Scilab <br> Python <br> Julia <br> R |
-| Plotting, graphing | Origin | Matplotlib <br> gnuplot <br> ggplot2 (R) <br> Veusz | QtiPlot <br> Simfit |
+| Plotting, graphing | Origin | Matplotlib <br> LabPlot <br> gnuplot <br> ggplot2 (R) <br> Veusz | QtiPlot <br> Simfit |
 | Statistics | Origin <br> IBM SPSS <br> Stata <br> Minitab <br> | JASP <br> PSPP <br> R <br> Python <br> Jamovi <br> Simfit |
