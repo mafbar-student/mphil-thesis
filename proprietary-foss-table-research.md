@@ -3,6 +3,7 @@ In this [file](https://github.com/mafbar-student/mphil-thesis/blob/main/propriet
 | Software     | Proprietary      | Free and open-source |
 |--------------|:----------------:|:-----------:|
 | Office suite | Microsoft Office | LibreOffice <br> OpenOffice |  
+| Document preparation | Microsoft Word | LibreOffice Writer <br> LaTeX |
 | Reference manager | Mendeley | Zotero |
 | Mind-map | Xmind <br> InVision | Freeplane <br> Freemind |
 | CAQDAS | NVivo <br> MAXQDA <br> ATLAS.ti | Qualcoder <br> Taguette <br> RQDA |
