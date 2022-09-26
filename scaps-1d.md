@@ -10,11 +10,16 @@ But it has since been used for many different kinds of solar cells. For example,
 
 ___
 
-## So... what is SCAPS-1D anyway and how does it work?
-
-
-
 ## Workflow
+
+In general, the workflow of SCAPS-1D is quite simple. In the most basic sense, this is what you do:
+
+1. Launch application.
+2. Set the problem.
+3. Give input parameters.
+4. Set working conditions.
+5. Specify the actions to be measured.
+6. Run the simulation.
 
 ## Interface - The Action Panel
 
