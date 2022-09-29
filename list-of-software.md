@@ -6,6 +6,7 @@ Below is the list of software that I use in the completion of my dissertation so
 - Mendeley [x]
 - LibreOffice
 - Zotero
+- Python (matplotlib)
 - Freeplane
 - Qualcoder
 - Visual Studio Code [x]
@@ -18,6 +19,8 @@ Future ones to be added:
 ___
 
 [Mirosoft Office](https://www.office.com) is paired with [Mendeley](https://www.mendeley.com), and [LibreOffice](https://www.libreoffice.org) is paired with [Zotero](https://www.zotero.org). Both pairs are effectively the same thing, though the latter are open-source, and I am just interested in how both sets will perform in the writing of college dissertations. I will soon use [LaTeX](https://www.latex-project.org) or [Pandoc](https://pandoc.org/) and Zotero to replace Microsoft Word and Mendeley entirely.
+
+[Python](https://www.python.org/) is a high-level, general-purpose programming language. I only use Python for the strict purpose of producing plots for my dissertation and publication. The package that I'm using is a very common data visualization tool, which is called [matplotlib](https://matplotlib.org/). I have tried several other plotting applications such as [LabPlot](https://labplot.kde.org/), [Veusz](https://veusz.github.io/) and [gnuplot](http://www.gnuplot.info/), and while they are all excellent plotting software that you should definitely try, I just find Python's matplotlib package to be the best in terms of intuitiveness, simplicity, elegance, and flexibility when making plots.
 
 [Freeplane](https://www.freeplane.org/) is an open-source mind-mapping software, which is a fork of Freemind. Extremely useful in visualising concepts and making links between different sets of information. You can find the [documentation here](https://docs.freeplane.org/home.html) and its [Github page here](https://github.com/freeplane/freeplane). Though those two are the official sources, I also found a [handbook published in Full Circle](https://sourceforge.net/p/freeplane/discussion/758437/thread/a85730a016/edb3/attachment/freeplane-handbook-fullcircle-parts-1-14.pdf), an Ubuntu magazine. It is slightly outdated though, since it is from Issue #130, which was published in February 2018 (this is written in 2022). I do use the latest version of Freemind though, and there is not that much difference from what I can tell, at least from my usage. Fortunately, except for a slight stumble in the beginning, this software is quite intuitive to use and I find the use to be more than enough for me. What helped me a lot were the documentation and also videos from Youtube. I encourage anyone curious in learning Freeplane to just watch Freeplane videos; there are lots that are instructive and some are honestly impressive.
 

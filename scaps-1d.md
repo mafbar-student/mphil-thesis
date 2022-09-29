@@ -72,8 +72,10 @@ First let me say that the SCAPS-1D research workflow will differ from person to 
 
 1. SCAPS-1D
 2. LibreOffice Calc
-3. gnuplot
+3. Python (matplotlib)
 
 And of course the flow is as follows:
 
-SCAPS-1D &rarr; LibreOffice Calc &rarr; gnuplot
+SCAPS-1D &rarr; LibreOffice Calc &rarr; Python
+
+SCAPS-1D is for simulation of course, and LibreOffice Calc is a spreadsheet software. You could use any spreadsheet software out there, though of course you'll most likely use Microsoft Excel. From then you can straight away produce the plots using Excel or any other plotting software that you desire. For me, I use Python to produce the plots.
