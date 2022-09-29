@@ -76,4 +76,4 @@ First let me say that the SCAPS-1D research workflow will differ from person to 
 
 And of course the flow is as follows:
 
-SCAPS-1D $rarr; LibreOffice Calc $rarr; gnuplot
+SCAPS-1D &rarr; LibreOffice Calc &rarr; gnuplot
