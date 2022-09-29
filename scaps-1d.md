@@ -12,7 +12,7 @@ ___
 
 # The Basics, and Only the Basics
 
-In general, the workflow of SCAPS-1D is quite simple. In the most basic sense, this is what you do:
+The general workflow of SCAPS-1D is quite simple. In the most basic sense, this is what you do:
 
 1. Launch application.
 2. Set the problem.
@@ -21,7 +21,7 @@ In general, the workflow of SCAPS-1D is quite simple. In the most basic sense, t
 5. Specify the actions to be measured.
 6. Run the simulation.
 
-Now, I will give a rundown on the most basic things that you can do in SCAPS-1D to help you get it up and running and begin to simulate one solar cell. From that, you can then easily simulate loads of different kinds of solar cells. In fact, you can just search "SCAPS-1D" in Google Scholar, and you will see how many papers have employed this software.
+Now, I will give a rundown on the most basic things that you can do in SCAPS-1D to help you get it up and running and begin to simulate one solar cell. From that, you can then easily simulate loads of different kinds of solar cells. In fact, you can just search "SCAPS-1D" in Google Scholar, and you will see how many research papers have successfully employed this software.
 
 It is really simple and if you follow it step-by-step, you should be to do one simulation and understand the basics of it by the end of this note. I will say though that this is *not* nearly an exhaustive and extensive list of all the available features with each and every setting; rather, this is just the way you can start using SCAPS-1D. Despite that, for me, all that I wrote here is enough to be able to publish at least one paper and complete my Master's dissertation.
 
@@ -60,8 +60,20 @@ The Steps (5) can be calculated as follows:
 
 $$ steps=\frac{to-from}{interval} $$
 
-The interval is of course the difference between two data points. The bigger the interval, the more data points. What to put in the interval really depends on how smooth you want your graph to look like. In my experience, it always is more beneficial to use bigger intervals first, and then decrease the interval as you see fit. It's up to you though.
+The interval is of course the difference between two consecutive data points. The bigger the interval, the more the data points. What to put in the interval really depends on how smooth you want your graph to look like. In my experience, it always is more beneficial to use bigger intervals first, and then decrease the interval as you see fit. It's up to you though.
 
 ### Interface - Results Panel
 
-##
+___
+
+## Workflow
+
+First let me say that the SCAPS-1D research workflow will differ from person to person, depending on their specific needs and software at their disposal. For me at the moment, I only use three software:
+
+1. SCAPS-1D
+2. LibreOffice Calc
+3. gnuplot
+
+And of course the flow is as follows:
+
+SCAPS-1D $rarr; LibreOffice Calc $rarr; gnuplot
