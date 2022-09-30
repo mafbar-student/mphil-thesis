@@ -2,7 +2,7 @@
 # For my dissertation and publication, I use Python's matplotlib package to produce the plots. Here, I will briefly put the code that I use to get the exact plots in my publications.
 # I am not sure if this is the best way to produce these plots, but this is the way that I did it
 # This is the crude method. I'll be posting the proper method in a bit, using .csv files.
-# This is also just one example of producing a plot for the thickness variable gathered from SCAPS-1D simulation
+# This is also just one EXAMPLE of producing a plot for the thickness variable gathered from SCAPS-1D simulation
 
 # install matplotlib, numpy, and scipy first
 
@@ -36,7 +36,7 @@ plt.title('Open-circuit voltage vs layer thickness')
 # but, we want a smooth line. so, we need to use interpolate and spline to produce a curve from the data points
 # in ms excel, this simply means clicking the "smooth line chart" options when making a chart
 # in python, you have to make a new curve which corresponds to the original xy data
-# x_new, bspline, v_oc_new
+# x_new which is thickness_new, bspline, and y_new which is v_oc_new
 thickness_new = np.linspace('minimum x', 'maximum x', 'number of data points; the higher the smoother')
 bspline = interpolate.make_interp_spline(thickness, v_oc)
 v_oc_new = bspline(thickness_new)
