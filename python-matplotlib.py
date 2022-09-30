@@ -43,7 +43,7 @@ v_oc_new = bspline(thickness_new)
 
 # plot it
 
-plt.plot(thickness_new, v_oc_new, color='#c20a0a')
+plt.plot(thickness_new, v_oc_new)
 
 # produce a visual plot
 
