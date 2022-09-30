@@ -14,4 +14,5 @@ This is a resource page for useful links that I have used throughout my research
 
 - [https://www.tutorialspoint.com/how-to-plot-a-smooth-line-with-matplotlib](https://www.tutorialspoint.com/how-to-plot-a-smooth-line-with-matplotlib)
 - [https://www.adamsmith.haus/python/answers/how-to-plot-a-smooth-line-with-matplotlib-in-python](tps://www.adamsmith.haus/python/answers/how-to-plot-a-smooth-line-with-matplotlib-in-python)
+- [https://www.geeksforgeeks.org/create-scatter-plot-with-smooth-line-using-python](https://www.geeksforgeeks.org/create-scatter-plot-with-smooth-line-using-python/)
 
