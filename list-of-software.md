@@ -5,6 +5,7 @@ Below is the list of software that I use in the completion of my dissertation so
 - Microsoft Office [x]
 - Mendeley [x]
 - LibreOffice
+- LaTeX
 - Zotero
 - Python (matplotlib)
 - Freeplane
@@ -12,13 +13,11 @@ Below is the list of software that I use in the completion of my dissertation so
 - Visual Studio Code [x]
 - Git
 - Solar Cell Capacitance Simulator (SCAPS-1D) [x]
-
-Future ones to be added:
-- LaTeX
+- Linux Mint (version 21)
 
 ___
 
-[Mirosoft Office](https://www.office.com) is paired with [Mendeley](https://www.mendeley.com), and [LibreOffice](https://www.libreoffice.org) is paired with [Zotero](https://www.zotero.org). Both pairs are effectively the same thing, though the latter are open-source, and I am just interested in how both sets will perform in the writing of college dissertations. I will soon use [LaTeX](https://www.latex-project.org) or [Pandoc](https://pandoc.org/) and Zotero to replace Microsoft Word and Mendeley entirely.
+[Mirosoft Office](https://www.office.com) is paired with [Mendeley](https://www.mendeley.com), and [LibreOffice](https://www.libreoffice.org) is paired with [Zotero](https://www.zotero.org). Both pairs are effectively the same thing, though the latter are open-source, and I am just interested in how both sets will perform in the writing of college dissertations and academic journals. I am also currently writing my dissertation and journal paper in [LaTeX](https://www.latex-project.org) using the [TeX Live](https://www.tug.org/texlive) distribution alongside the [TeXstudio](https://www.texstudio.org) editor within [Linux Mint 21](https://linuxmint.com). 
 
 [Python](https://www.python.org/) is a high-level, general-purpose programming language. I only use Python for the strict purpose of producing plots for my dissertation and publication. The package that I'm using is a very common data visualization tool, which is called [matplotlib](https://matplotlib.org/). I have tried several other plotting applications such as [LabPlot](https://labplot.kde.org/), [Veusz](https://veusz.github.io/) and [gnuplot](http://www.gnuplot.info/), and while they are all excellent plotting software that you should definitely try, I just find Python's matplotlib package to be the best in terms of intuitiveness, simplicity, elegance, and flexibility when making plots.
 
