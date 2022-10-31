@@ -7,7 +7,7 @@ Below is the list of software that I use in the completion of my dissertation so
 - LibreOffice
 - LaTeX
 - Zotero
-- Python (matplotlib)
+- Python
 - Freeplane
 - Qualcoder
 - Visual Studio Code [x]
@@ -17,7 +17,7 @@ Below is the list of software that I use in the completion of my dissertation so
 
 ___
 
-[Mirosoft Office](https://www.office.com) is paired with [Mendeley](https://www.mendeley.com), and [LibreOffice](https://www.libreoffice.org) is paired with [Zotero](https://www.zotero.org). Both pairs are effectively the same thing, though the latter are open-source, and I am just interested in how both sets will perform in the writing of college dissertations and academic journals. I am also currently writing my dissertation and journal paper in [LaTeX](https://www.latex-project.org) using the [TeX Live](https://www.tug.org/texlive) distribution alongside the [TeXstudio](https://www.texstudio.org) editor within [Linux Mint 21](https://linuxmint.com). So basically I am doing writing with three different software, and this is just an experiment to compare my own experiences in using Microsoft Office, LibreOffice, and LaTeX to do academic writing.
+[Mirosoft Office](https://www.office.com) is paired with [Mendeley](https://www.mendeley.com), and [LibreOffice](https://www.libreoffice.org) is paired with [Zotero](https://www.zotero.org). Both pairs are effectively the same thing, though the latter are open-source, and I am just interested in how both sets will perform in the writing of college dissertations and academic journals. I am also currently writing my dissertation and journal paper in [LaTeX](https://www.latex-project.org) using the [TeX Live](https://www.tug.org/texlive) distribution alongside the [TeXstudio](https://www.texstudio.org) editor within [Linux Mint 21](https://linuxmint.com). So basically I am doing writing with three different software, and this is just an experiment to compare my own experiences in using Microsoft Office, LibreOffice, and LaTeX to do academic writing. To get into a bit of detail, for LibreOffice at the moment, I use three programs under it, which are: Writer, Calc, and Math. Writer is like MS Office, and for me it works well for all my purposes. Math is kind of integrated into the whole LibreOffice suite, and so you can write advanced mathematical equations using Math in Writer. Aside from that, I also use Calc (counterpart to Excel) to store and graph out my simulation data. At the moment, I haven't properly learned LaTeX yet, though I intend to do so.
 
 [Python](https://www.python.org/) is a high-level, general-purpose programming language. I only use Python for the strict purpose of producing plots for my dissertation and publication. The package that I'm using is a very common data visualization tool, which is called [matplotlib](https://matplotlib.org/). I have tried several other plotting applications such as [LabPlot](https://labplot.kde.org/), [Veusz](https://veusz.github.io/) and [gnuplot](http://www.gnuplot.info/), and while they are all excellent plotting software that you should definitely try, I just find Python's matplotlib package to be the best in terms of intuitiveness, simplicity, elegance, and flexibility when making plots.
 
