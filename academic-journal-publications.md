@@ -25,3 +25,11 @@ Some other potential journal publications:
 - Optik
 - Results in Physics
 - Applied Physics A
+
+These are the steps to publish:
+
+* Finish writing your draft.
+* Find a suitable publication.
+* Submit your draft to said publication.
+* Wait for response from publication.
+* Make necessary changes to your draft.
