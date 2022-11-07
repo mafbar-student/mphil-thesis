@@ -26,7 +26,7 @@ Some other potential journal publications:
 - Results in Physics
 - Applied Physics A
 
-These are the steps to publish:
+# These are the steps to publish:
 
 * Finish writing your draft.
 * Find a suitable publication.
