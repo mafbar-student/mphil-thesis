@@ -2,7 +2,7 @@ Doing this research trying to use open-source software when I can, I came across
 
 # LibreOffice
 
-1. There seems to be no obvious way to have an axis label in a chart contain text that is subscript or superscript, for example Z<sup>phase</sup> cannot be written in a normal axis label. This seems to be a normal feature in MS Office, WPS Office, and even OnlyOffice, to name a few alternatives. One workaround that I found and implemented is:
+1. There seems to be no obvious way to have an axis label in a chart contain text that is subscript or superscript, for example Z<sub>phase</sub> cannot be written in a normal axis label. This seems to be a normal feature in MS Office, WPS Office, and even OnlyOffice, to name a few alternatives. One workaround that I found and implemented is:
 
 * Insert an axis label with a dummy text and colour the font white, so there is an empty space where the axis label should be.
 * Create a textbox and write the desired title, as textboxes can contain superscript and subscript text.
