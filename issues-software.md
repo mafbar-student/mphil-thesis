@@ -27,7 +27,7 @@ Note: These workarounds are only done in the latest version of LibreOffice as of
 * Click "Convert", and then click "Curve".
 * Then, export it to PDF. Everything should be fine.
 
-My issue with this workaround is that the final exported PDF does not export any *original* text, since you have converted it to "Curve", which means that it's just a graphical object. You cannot highlight any original text in the final PDF except for the text that you've added. This is quite irritating but it's the best I can do. I may experiment with GIMP for document editing and I will add it once I ascertained GIMP's capabilities in editing PDFs.
+My issue with this workaround is that the final exported PDF does not export any *original* text of the PDF that you dragged and dropped in LibreOffice Draw, since you have converted it to "Curve", which means that it's now become just a graphical object. You cannot highlight any original text in the final PDF except for the text that you've added. This is quite irritating but it's the best I can do. I may experiment with GIMP for document editing and I will add it once I ascertained GIMP's capabilities in editing PDFs.
 
 # Qualcoder
 
