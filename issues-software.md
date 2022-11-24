@@ -22,7 +22,7 @@ Note: These workarounds are only done in the latest version of LibreOffice as of
 
 * You can drag and drop PDF files into LibreOffice Draw.
 * Edit them as you wish by inserting texts or lines/shapes.
-* First, try exporting to PDF as normal. If you find that somehow it exported with no issues, then that's great. If you find that the exported PDF is missing its texts (and you can tell since you can highlight the text despite the fact that its unreadable as is), then go to this next step.
+* First, try exporting to PDF as normal. If you find that somehow it exported with no issues, then that's great. If you find that the exported PDF is missing its texts (and you can tell since you can highlight the text despite the fact that it's unreadable as is), then go to this next step.
 * Right-click the PDF that you dragged and dropped inside the LibreOffice canvas.
 * Click "Convert", and then click "Curve".
 * Then, export it to PDF. Everything should be fine.
