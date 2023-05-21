@@ -19,3 +19,13 @@ After that, I simply used Vim to write my whole dissertation.
 ## Installation in Windows
 
 However, in order to learn, I also installed LaTeX in Windows. I'll include the steps soon.
+
+## My personal experience with LaTeX
+
+To write my dissertation, I used three different software:
+
+* Microsoft Word
+* LibreOffice Writer
+* LaTeX
+
+I'm going to talk aobut Microsoft Word and LibreOffice Writer in a bit. However, I would like to touch on LaTeX, and my own personal experience using it.
