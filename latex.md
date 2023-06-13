@@ -28,4 +28,4 @@ To write my dissertation, I used three different software:
 * LibreOffice Writer
 * LaTeX
 
-I'm going to talk aobut Microsoft Word and LibreOffice Writer in a bit. However, I would like to touch on LaTeX, and my own personal experience using it.
+I'm going to talk about Microsoft Word and LibreOffice Writer in a bit. However, I would like to touch on LaTeX, and my own personal experience using it.
